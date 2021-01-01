@@ -16,7 +16,7 @@
     "url": "https://github.com/HemingwayLee/github-package-showcase/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/HemingwayLee"
+    "registry": "https://npm.pkg.github.com/@HemingwayLee"
   },
   "homepage": "https://github.com/HemingwayLee/github-package-showcase#readme"
 }
