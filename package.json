@@ -1,5 +1,5 @@
 {
-  "name": "github-package-showcase",
+  "name": "@HemingwayLee/github-package-showcase",
   "version": "1.0.0",
   "description": "test github package",
   "main": "index.js",
@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HemingwayLee/github-package-showcase.git"
+    "url": "https://github.com/HemingwayLee/github-package-showcase"
   },
   "author": "ywlee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HemingwayLee/github-package-showcase/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/HemingwayLee"
   },
   "homepage": "https://github.com/HemingwayLee/github-package-showcase#readme"
 }
