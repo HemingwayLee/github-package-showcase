@@ -1,7 +1,7 @@
 {
-  "name": "github-package-showcase",
+  "name": "@hello/github-package-showcase",
   "version": "1.0.0",
-  "description": "hello, github package",
+  "description": "test github package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
